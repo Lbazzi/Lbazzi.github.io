@@ -47,7 +47,7 @@ function vueSidebarShow() {
 }
 
 function loadSidebar(hrefTxt) {	
-	var sidebars = document.getElementsByClassName("sidebar");	var divNode = document.createElement("div");divNode.setAttribute("style" , "text-align: center; padding: 10px;");divNode.innerHTML = '<a href="' + hrefTxt + '" target="_blank"><img src="/img/sidebar_280140.png"></a>';
+	var sidebars = document.getElementsByClassName("sidebar");	var divNode = document.createElement("div");divNode.setAttribute("style" , "text-align: center; padding: 10px;");divNode.innerHTML = '<a href="' + hrefTxt + '" target="_blank"><img src="/img/sidebar_280140.png"></a>'; // 如果侧边栏够宽，则展示广告图片
 	console.log(sidebars)
 	sidebars[0].insertBefore(divNode , sidebars[0].childNodes[0]);
 	var e = document.getElementsByClassName("hide");if(e[1])e[1].remove();

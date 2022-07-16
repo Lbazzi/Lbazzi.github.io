@@ -1,14 +1,14 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "VisionVera",
+  "short_name": "VV",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
+  "description": "OperationDocs",
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./img/logo.png",
+      "src": "./img/sldl.png",
       "sizes": "144x144",
       "type": "image/png"
     }

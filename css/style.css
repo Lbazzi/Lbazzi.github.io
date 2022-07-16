@@ -3,9 +3,11 @@
 #app .navbar .home-link span:before{
     display: inline-block;
     content:'';
-    width: 3rem;
-    height:2.4rem;
-    background:url('../img/logo.png') no-repeat;
+    /*width: 3rem;*/
+    width: 5rem;
+    /*height: 2.4rem;*/
+    height: 2.5rem;
+    background:url('../img/sldl.png') no-repeat;
     background-size:100% 100%;
     vertical-align: middle;
 }
