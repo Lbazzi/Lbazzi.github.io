@@ -6,12 +6,12 @@
     /*width: 3rem;*/
     width: 5rem;
     /*height: 2.4rem;*/
-    height: 2.5rem;
+    height: 2.2rem;
     background:url('../img/sldl.png') no-repeat;
-    background-size:100% 100%;
+    background-size: 100% 100%;
     vertical-align: middle;
 }
-.page .page-title{
+.page .page-title {
 	max-width:840px !important;
 }
 .bilibili-player-video-recommend {
