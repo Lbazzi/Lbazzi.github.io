@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "fe5f95fea29b3c03d7c17a54c3710cdf"
+    "revision": "866c9e6715e49e8a65915ce2a0519426"
   },
   {
     "url": "assets/back-to-top.svg",
     "revision": "cbe7b14b16686bbafd5f42b528a5360e"
   },
   {
-    "url": "assets/css/0.styles.3fe554e3.css",
-    "revision": "4e6f213610db9be4c71806b3fce0e6a8"
+    "url": "assets/css/0.styles.f80d0126.css",
+    "revision": "8e183f0095b600f21043e8655bea7393"
   },
   {
     "url": "assets/img/home-bg.7b267d7c.jpg",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
     "revision": "a21cb9ddc7eac47e3319b597c31c985c"
   },
   {
-    "url": "assets/js/1.937e30cf.js",
+    "url": "assets/js/1.63d082ac.js",
     "revision": "6b76e730e37fa768208b0fa2bacf0e42"
   },
   {
@@ -426,8 +426,8 @@ self.__precacheManifest = [
     "revision": "09c73e95511dcca8e41cef42a9e57d93"
   },
   {
-    "url": "assets/js/11.ca050067.js",
-    "revision": "1c2ed7a01be03174cd7174ad1ddf65a1"
+    "url": "assets/js/11.b8bc87fa.js",
+    "revision": "1372396d2a4d7ccbab5247bc05b6cf0a"
   },
   {
     "url": "assets/js/12.528bf931.js",
@@ -446,12 +446,12 @@ self.__precacheManifest = [
     "revision": "b7ed3f10832755980f1142ba81e33dac"
   },
   {
-    "url": "assets/js/16.dec8774d.js",
-    "revision": "8f9bd6c0e4f484cdae52af34a57715ce"
+    "url": "assets/js/16.50cba89f.js",
+    "revision": "1762dc0a978d4e83f85583e6dd3b37f4"
   },
   {
-    "url": "assets/js/17.31421abd.js",
-    "revision": "a0330c9338eb6fa84bfdfef40b485efa"
+    "url": "assets/js/17.ca70ee4f.js",
+    "revision": "23960b29056e31db33511260c38bf573"
   },
   {
     "url": "assets/js/18.72db516f.js",
@@ -462,20 +462,20 @@ self.__precacheManifest = [
     "revision": "47729980e53338c0433c44c942767cd2"
   },
   {
-    "url": "assets/js/4.a6a9f48c.js",
-    "revision": "99da0bb4455a940c73531c69d255d4b4"
+    "url": "assets/js/4.b4fbfcbf.js",
+    "revision": "44b1801356e5394c426826388ce7d631"
   },
   {
-    "url": "assets/js/5.d8d6ff74.js",
-    "revision": "b1bbb025082aa8f5966e5e957d293f5c"
+    "url": "assets/js/5.9582a485.js",
+    "revision": "f524a8575ee67e4f1edab318446ea026"
   },
   {
-    "url": "assets/js/6.2db6b9ae.js",
-    "revision": "18af083a663e09f54610afcbd2b14aeb"
+    "url": "assets/js/6.4c184538.js",
+    "revision": "1336367cbb6c9f0b3d748b15fa881cce"
   },
   {
-    "url": "assets/js/7.6da30927.js",
-    "revision": "25b522f4e00cac4771eba6457691f38e"
+    "url": "assets/js/7.dacc6a3d.js",
+    "revision": "7ca00c33460c1c6e0c4f2774ecd313a2"
   },
   {
     "url": "assets/js/8.e69b3e98.js",
@@ -486,8 +486,8 @@ self.__precacheManifest = [
     "revision": "2162af5ee70a574b75f7e6f759d4e21a"
   },
   {
-    "url": "assets/js/app.d99f4e22.js",
-    "revision": "441c2301fb1bb1ec5abea2f4c2542bae"
+    "url": "assets/js/app.32231165.js",
+    "revision": "1fcf4d3feb911e2bb09bd460cbce2cbb"
   },
   {
     "url": "assets/js/baidu.js",
@@ -503,11 +503,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "4c8910ac56bf24f9baf5c5aa276ad8e6"
+    "revision": "cb5541a411dfba98fc009fea75c81c68"
   },
   {
     "url": "categories/操作手册/index.html",
-    "revision": "af94a86a56ddfe057a5c82a6b0fc2525"
+    "revision": "b48a85661695e397138686a18526e5c5"
   },
   {
     "url": "css/style.css",
@@ -515,7 +515,7 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/index.html",
-    "revision": "8617be9fea61ef8c1ca47995379899c8"
+    "revision": "eeea2cec39e6fc8836d6a84140c0e818"
   },
   {
     "url": "img/bg3.jpg",
@@ -535,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "145b2e902cd848ad0685bad4648bbc13"
+    "revision": "2765ff90f52c8ea83e864eb087380523"
   },
   {
     "url": "js/custom.js",
@@ -547,43 +547,43 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "ec406ab642a83424d05cc9314987aba3"
+    "revision": "1201c069ca7656efe92080a01399cfad"
   },
   {
     "url": "tags/OC工时系统/index.html",
-    "revision": "7a37efa3affa95ee701183bdd9262815"
+    "revision": "640939ccbd4c5aa12001f6674c229a4c"
   },
   {
     "url": "tags/会议感知系统/index.html",
-    "revision": "4fed4407f095a45b417f43dd818c170f"
+    "revision": "cf91f3ad6222fd23d30d9a49f2df7b3c"
   },
   {
     "url": "tags/日志分析系统/index.html",
-    "revision": "c4151b3f96549562d85ba0875c6e9dfd"
+    "revision": "b0fb405d388be5424c9cd441a2635bdf"
   },
   {
     "url": "tags/资源管理系统/index.html",
-    "revision": "644b1e0aedbea943515617ec693f710d"
+    "revision": "5bc4c095611bca426d6c5de2142c870d"
   },
   {
     "url": "timeline/index.html",
-    "revision": "0e12f76432bce4f02e4061c3cc0772e2"
+    "revision": "fe9b705b4e24f4af16c6cd3fd1b154d0"
   },
   {
     "url": "操作手册/视联网OC工时系统操作手册/视联网OC工时系统操作手册.html",
-    "revision": "5de7ac37b4ab7a609dab147a96fd1888"
+    "revision": "8db1a8e43971f6d86d116a3e805d571f"
   },
   {
     "url": "操作手册/视联网会议感知系统操作手册/视联网会议感知系统操作手册.html",
-    "revision": "6498ece5c007c195da5a8f2f63157b7e"
+    "revision": "54c16e976f5dbe89d323d07deb5b71d5"
   },
   {
     "url": "操作手册/视联网日志分析系统操作手册/视联网日志分析系统操作手册.html",
-    "revision": "af477508fe9f0a9f657675a515738566"
+    "revision": "b384e65778cb9330ba12effed2a7b7af"
   },
   {
     "url": "操作手册/视联网资源管理系统操作手册/视联网资源管理系统操作手册.html",
-    "revision": "980b29591446e95afb39b87a87de99cd"
+    "revision": "6f67280cb2e8a8f723d638689f3d152c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
